@@ -12,7 +12,7 @@ A modern knowledge management system that transforms documents into structured k
   - Excel export with rows as records, columns as prompts, cells as knowledge
   - Support for plain knowledge text extraction
 - **User Management**: Multi-user support with role-based access control
-- **RESTful API**: Complete API access for all functionality
+- **RESTful API**: Compl7ete API access for all functionality
 - **Responsive Design**: Works seamlessly on desktop and mobile devices
 
 ## Quick Start
